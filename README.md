@@ -73,7 +73,7 @@ I am currently seeking internship opportunities where I can apply my academic kn
 
 ## 📫 Contact
 
-📧 Email: shahzadhussain459@gmail.com
+📧 Email: shahzadhussain4595@gmail.com
 
 💼 LinkedIn: https://www.linkedin.com/in/shahzadhussain-ai?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
