@@ -4,7 +4,7 @@
 
 I am a Bachelor of Science in Artificial Intelligence student at the Federal Urdu University of Arts, Science & Technology (FUUAST), Islamabad, Pakistan.
 
-I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development. I enjoy designing practical solutions using Python, Java, and C++, while continuously improving my programming, analytical, and problem-solving skills.
+I am passionate about Artificial Intelligence, Machine Learning, Data Science, and Software Development. I enjoy designing practical solutions using Python and C++, while continuously improving my programming, analytical, and problem-solving skills.
 
 My goal is to build innovative AI-powered applications that solve real-world problems and create a meaningful impact.
 
